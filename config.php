@@ -26,7 +26,7 @@
     // If set incorrectly your site/software will not function correctly.
     // These urls should NOT include a trailing slash
     // This is the url and web path of your root vBulletin directory
-$config['baseurl'] = 'http://localhost/btu-forum/';
+$config['baseurl'] = 'http://localhost/btu-forum';
 
 
 // This will only be used if you wish to require https logins
